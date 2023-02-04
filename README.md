@@ -6,6 +6,7 @@ Tecnhologies used:
 
 ExistingClass Looked like the following:
 
+```
 class HelperClass
 {
     public async Task<string> TransformStringAsync(string input)
@@ -22,3 +23,4 @@ class HelperClass
         return input.ToUpper();
     }
 } 
+```
