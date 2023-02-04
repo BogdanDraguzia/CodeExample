@@ -1,6 +1,7 @@
 # CodeExample
 
 This repository shows how I refactored an existing class and covered it with unit-tests.
+
 Tecnhologies used:
 .NET 6, xUnit, Moq.
 
